@@ -1,0 +1,15 @@
+{
+  "name": "",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@10.28",
+  "scripts": {
+    "zenn:init": "zenn init",
+    "zenn:preview": "zenn preview",
+    "zenn:new:article": "zenn new:article",
+    "zenn:new:book": "zenn new:book"
+  },
+  "dependencies": {
+    "zenn-cli": "^0.4.5"
+  }
+}
